@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dunnvilleelectrician.ca/sitemap-index.xml
